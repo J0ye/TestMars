@@ -23,7 +23,57 @@ MonoBehaviour:
     m_SerializedTextureGuid:
       m_GuidLow: 13557111092181561042
       m_GuidHigh: 2270422718364754009
-    m_Size: {x: 0.297, y: 0.21}
+    m_Size: {x: 0.148, y: 0.105}
     m_SpecifySize: 1
     m_Name: SmartPalmTest
     m_Texture: {fileID: 2800000, guid: adfd6ed288b5bc2459a01be26e29821f, type: 3}
+  - m_SerializedGuid:
+      m_GuidLow: 5052154093897345767
+      m_GuidHigh: 12497910759720695986
+    m_SerializedTextureGuid:
+      m_GuidLow: 14201100782886377020
+      m_GuidHigh: 10647754056653944072
+    m_Size: {x: 0.297, y: 0.21}
+    m_SpecifySize: 0
+    m_Name: K
+    m_Texture: {fileID: 2800000, guid: df76d63c71ebc5140835957ae66bc493, type: 3}
+  - m_SerializedGuid:
+      m_GuidLow: 5154578547528961343
+      m_GuidHigh: 7902935110348504964
+    m_SerializedTextureGuid:
+      m_GuidLow: 8053582204823515062
+      m_GuidHigh: 17560657571310722299
+    m_Size: {x: 1, y: 1}
+    m_SpecifySize: 1
+    m_Name: Thermo1
+    m_Texture: {fileID: 2800000, guid: 77e9afb612586fc4fbdc3f5005fdb3f3, type: 3}
+  - m_SerializedGuid:
+      m_GuidLow: 4973251693516467765
+      m_GuidHigh: 7073090358627558018
+    m_SerializedTextureGuid:
+      m_GuidLow: 17497668619840697271
+      m_GuidHigh: 5101890053284189866
+    m_Size: {x: 1, y: 1}
+    m_SpecifySize: 1
+    m_Name: Thermo2
+    m_Texture: {fileID: 2800000, guid: 331ab3b734e7f2d4aa561af5f88dcd46, type: 3}
+  - m_SerializedGuid:
+      m_GuidLow: 5629677390485271118
+      m_GuidHigh: 7628311379665332394
+    m_SerializedTextureGuid:
+      m_GuidLow: 17484341929077285206
+      m_GuidHigh: 15382116840378946058
+    m_Size: {x: 0.148, y: 0.148}
+    m_SpecifySize: 1
+    m_Name: Thermo3
+    m_Texture: {fileID: 2800000, guid: 361ea156dc59f2a40a5257b4c44178d5, type: 3}
+  - m_SerializedGuid:
+      m_GuidLow: 5700427736078329169
+      m_GuidHigh: 2756743462003220381
+    m_SerializedTextureGuid:
+      m_GuidLow: 10575711787907085235
+      m_GuidHigh: 10517441454878579993
+    m_Size: {x: 0.148, y: 0.148}
+    m_SpecifySize: 1
+    m_Name: Thermo4
+    m_Texture: {fileID: 2800000, guid: ad1cf3b379d692c4195d01884775f591, type: 3}
